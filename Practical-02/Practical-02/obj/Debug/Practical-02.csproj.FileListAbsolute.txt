@@ -1,0 +1,7 @@
+D:\.Net Practical\Practical-02\Practical-02\bin\Debug\Practical-02.exe.config
+D:\.Net Practical\Practical-02\Practical-02\bin\Debug\Practical-02.exe
+D:\.Net Practical\Practical-02\Practical-02\bin\Debug\Practical-02.pdb
+D:\.Net Practical\Practical-02\Practical-02\obj\Debug\Practical-02.csproj.AssemblyReference.cache
+D:\.Net Practical\Practical-02\Practical-02\obj\Debug\Practical-02.csproj.CoreCompileInputs.cache
+D:\.Net Practical\Practical-02\Practical-02\obj\Debug\Practical-02.exe
+D:\.Net Practical\Practical-02\Practical-02\obj\Debug\Practical-02.pdb
